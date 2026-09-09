@@ -1,0 +1,8 @@
+{
+  "name": "cha-bebe",
+  "version": "1.0.0",
+  "description": "RSVP para o Chá da Lorena ou Rafael",
+  "dependencies": {
+    "@libsql/client": "^0.6.0"
+  }
+}
